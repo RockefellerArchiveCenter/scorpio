@@ -10,7 +10,7 @@ asterism==1.1.0
     # via -r requirements.in
 bagit==1.8.1
     # via asterism
-certifi==2025.1.31
+certifi==2025.4.26
     # via
     #   elasticsearch
     #   requests
@@ -64,7 +64,7 @@ six==1.17.0
     #   python-dateutil
 sqlparse==0.5.3
     # via django
-typing-extensions==4.13.0
+typing-extensions==4.13.2
     # via asgiref
 urllib3==1.26.20
     # via
