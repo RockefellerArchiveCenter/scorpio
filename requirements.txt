@@ -8,15 +8,15 @@ asgiref==3.8.1
     # via django
 asterism==1.1.0
     # via -r requirements.in
-bagit==1.8.1
+bagit==1.9.0
     # via asterism
-certifi==2025.4.26
+certifi==2025.6.15
     # via
     #   elasticsearch
     #   requests
 charset-normalizer==3.4.2
     # via requests
-django==4.2.21
+django==4.2.23
     # via
     #   -r requirements.in
     #   asterism
@@ -52,7 +52,7 @@ python-dateutil==2.9.0.post0
     # via elasticsearch-dsl
 rac-es==1.1.0
     # via -r requirements.in
-requests==2.32.3
+requests==2.32.4
     # via
     #   -r requirements.in
     #   electronbonder
@@ -64,7 +64,7 @@ six==1.17.0
     #   python-dateutil
 sqlparse==0.5.3
     # via django
-typing-extensions==4.13.2
+typing-extensions==4.14.0
     # via asgiref
 urllib3==1.26.20
     # via
