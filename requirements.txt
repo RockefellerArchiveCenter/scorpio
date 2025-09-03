@@ -10,13 +10,13 @@ asterism==1.1.0
     # via -r requirements.in
 bagit==1.9.0
     # via asterism
-certifi==2025.7.14
+certifi==2025.8.3
     # via
     #   elasticsearch
     #   requests
-charset-normalizer==3.4.2
+charset-normalizer==3.4.3
     # via requests
-django==4.2.23
+django==4.2.24
     # via
     #   -r requirements.in
     #   asterism
@@ -27,7 +27,7 @@ django-common-helpers==0.9.2
     # via django4-cron
 django4-cron==0.5.1
     # via -r requirements.in
-djangorestframework==3.16.0
+djangorestframework==3.16.1
     # via
     #   -r requirements.in
     #   asterism
@@ -52,7 +52,7 @@ python-dateutil==2.9.0.post0
     # via elasticsearch-dsl
 rac-es==1.1.0
     # via -r requirements.in
-requests==2.32.4
+requests==2.32.5
     # via
     #   -r requirements.in
     #   electronbonder
@@ -64,7 +64,7 @@ six==1.17.0
     #   python-dateutil
 sqlparse==0.5.3
     # via django
-typing-extensions==4.14.1
+typing-extensions==4.15.0
     # via asgiref
 urllib3==1.26.20
     # via
