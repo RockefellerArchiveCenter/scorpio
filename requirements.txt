@@ -10,7 +10,7 @@ certifi==2025.11.12
     #   requests
 charset-normalizer==3.4.4
     # via requests
-django==4.2.26
+django==4.2.27
     # via
     #   -r requirements.in
     #   asterism
@@ -56,7 +56,7 @@ six==1.17.0
     #   electronbonder
     #   odin
     #   python-dateutil
-sqlparse==0.5.4
+sqlparse==0.5.5
     # via django
 typing-extensions==4.15.0
     # via asgiref
