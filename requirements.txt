@@ -4,13 +4,13 @@ asterism==1.1.0
     # via -r requirements.in
 bagit==1.9.0
     # via asterism
-certifi==2026.2.25
+certifi==2026.4.22
     # via
     #   elasticsearch
     #   requests
-charset-normalizer==3.4.6
+charset-normalizer==3.4.7
     # via requests
-django==4.2.29
+django==4.2.30
     # via
     #   -r requirements.in
     #   asterism
@@ -36,11 +36,11 @@ elasticsearch-dsl==7.4.1
     #   rac-es
 electronbonder==1.1
     # via -r requirements.in
-idna==3.11
+idna==3.13
     # via requests
 odin==1.8.1
     # via -r requirements.in
-psycopg2==2.9.11
+psycopg2==2.9.12
     # via -r requirements.in
 python-dateutil==2.9.0.post0
     # via elasticsearch-dsl
