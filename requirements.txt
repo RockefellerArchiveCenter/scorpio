@@ -4,7 +4,7 @@ asterism==1.1.0
     # via -r requirements.in
 bagit==1.9.0
     # via asterism
-certifi==2026.4.22
+certifi==2026.5.20
     # via
     #   elasticsearch
     #   requests
@@ -36,7 +36,7 @@ elasticsearch-dsl==7.4.1
     #   rac-es
 electronbonder==1.1
     # via -r requirements.in
-idna==3.13
+idna==3.17
     # via requests
 odin==1.8.1
     # via -r requirements.in
@@ -44,9 +44,9 @@ psycopg2==2.9.12
     # via -r requirements.in
 python-dateutil==2.9.0.post0
     # via elasticsearch-dsl
-rac-es==1.1.0
+rac-es==1.1.1
     # via -r requirements.in
-requests==2.33.1
+requests==2.34.2
     # via
     #   -r requirements.in
     #   electronbonder
@@ -60,7 +60,7 @@ sqlparse==0.5.5
     # via django
 typing-extensions==4.15.0
     # via asgiref
-urllib3==2.6.3
+urllib3==2.7.0
     # via
     #   elasticsearch
     #   requests
