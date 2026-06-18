@@ -1,3 +1,7 @@
+**This application has been marked as read-only and is no longer actively maintained or supported. Application functionality has been reimplemented in:
+
+* [data_index](https://github.com/RockefellerArchiveCenter/data_index)
+
 # scorpio
 
 A microservice application to merge and index Collections, Objects, Agents and Terms.
